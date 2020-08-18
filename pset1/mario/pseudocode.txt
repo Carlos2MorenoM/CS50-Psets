@@ -1,0 +1,4 @@
+Ask the user for the desired height
+make sure that the height is between 0 and 8
+make the iteration, print the # and a new line
+
